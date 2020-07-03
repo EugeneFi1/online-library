@@ -1,0 +1,33 @@
+.shapka {
+    position: fixed;
+    background-color: #65bdf0;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+.reg {
+    margin-top: 100px;
+    padding: 50px;
+    border: 2px solid black;
+    width: 200px;
+}
+.reg .button {
+    margin-top: 20px;
+}
+.shapka span {
+    font-size: xx-large;
+    font-family: Courier New, monospace;
+    color: #ffffff;
+}
+.shapka span span{
+    font-family: Bradley Hand, cursive;
+}
+.none {
+    display: none;
+}
+.main {
+    margin-top: 100px;
+}
